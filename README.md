@@ -23,3 +23,5 @@ Todas as tarefas são salvas localmente no navegador utilizando **LocalStorage**
 
 ## Status
 Concluído ✅
+
+Link para acessar o projeto: https://tavanoma.github.io/todo-app/
